@@ -1,0 +1,6 @@
+export const ADD = "ADD"
+export const REMVOE = "REMOVE"
+export const CHANGENAME = "ADCHANGENAMED"
+export const CHANGEAGE = "CHANGEAGE"
+export const CHANGECOUNT = "CHANGECOUNT"
+export const ADDNAME = "ADDNAME"

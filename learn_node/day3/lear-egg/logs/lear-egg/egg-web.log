@@ -1,0 +1,774 @@
+2021-06-08 22:05:15,445 INFO 10136 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-08 22:05:15,565 INFO 10136 [egg-multipart] stream mode enable
+2021-06-08 22:05:16,273 INFO 10136 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-08 22:05:16,282 INFO 10136 [egg-security] use csrf middleware
+2021-06-08 22:05:16,286 INFO 10136 [egg-security] use methodnoallow middleware
+2021-06-08 22:05:16,288 INFO 10136 [egg-security] use noopen middleware
+2021-06-08 22:05:16,294 INFO 10136 [egg-security] use nosniff middleware
+2021-06-08 22:05:16,311 INFO 10136 [egg-security] use xssProtection middleware
+2021-06-08 22:05:16,315 INFO 10136 [egg-security] use xframe middleware
+2021-06-08 22:05:16,318 INFO 10136 [egg-security] use dta middleware
+2021-06-08 22:05:16,318 INFO 10136 [egg-security] compose 7 middlewares into one security middleware
+2021-06-08 22:05:16,362 INFO 10136 [egg:core] dump config after load, 26ms
+2021-06-08 22:05:16,403 INFO 10136 [egg-watcher:application] watcher start success
+2021-06-08 22:05:16,455 INFO 10136 [egg:core] dump config after ready, 44ms
+2021-06-08 22:05:59,207 INFO 19036 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-08 22:05:59,311 INFO 19036 [egg-multipart] stream mode enable
+2021-06-08 22:05:59,829 INFO 19036 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-08 22:05:59,835 INFO 19036 [egg-security] use csrf middleware
+2021-06-08 22:05:59,837 INFO 19036 [egg-security] use methodnoallow middleware
+2021-06-08 22:05:59,839 INFO 19036 [egg-security] use noopen middleware
+2021-06-08 22:05:59,841 INFO 19036 [egg-security] use nosniff middleware
+2021-06-08 22:05:59,842 INFO 19036 [egg-security] use xssProtection middleware
+2021-06-08 22:05:59,844 INFO 19036 [egg-security] use xframe middleware
+2021-06-08 22:05:59,845 INFO 19036 [egg-security] use dta middleware
+2021-06-08 22:05:59,845 INFO 19036 [egg-security] compose 7 middlewares into one security middleware
+2021-06-08 22:05:59,895 INFO 19036 [egg:core] dump config after load, 20ms
+2021-06-08 22:05:59,931 INFO 19036 [egg-watcher:application] watcher start success
+2021-06-08 22:05:59,954 INFO 19036 [egg:core] dump config after ready, 19ms
+2021-06-08 22:06:06,529 INFO 15124 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-08 22:06:06,653 INFO 15124 [egg-multipart] stream mode enable
+2021-06-08 22:06:07,205 INFO 15124 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-08 22:06:07,219 INFO 15124 [egg-security] use csrf middleware
+2021-06-08 22:06:07,223 INFO 15124 [egg-security] use methodnoallow middleware
+2021-06-08 22:06:07,225 INFO 15124 [egg-security] use noopen middleware
+2021-06-08 22:06:07,227 INFO 15124 [egg-security] use nosniff middleware
+2021-06-08 22:06:07,229 INFO 15124 [egg-security] use xssProtection middleware
+2021-06-08 22:06:07,230 INFO 15124 [egg-security] use xframe middleware
+2021-06-08 22:06:07,232 INFO 15124 [egg-security] use dta middleware
+2021-06-08 22:06:07,232 INFO 15124 [egg-security] compose 7 middlewares into one security middleware
+2021-06-08 22:06:07,277 INFO 15124 [egg:core] dump config after load, 24ms
+2021-06-08 22:06:07,358 INFO 15124 [egg-watcher:application] watcher start success
+2021-06-08 22:06:07,382 INFO 15124 [egg:core] dump config after ready, 19ms
+2021-06-10 19:15:56,790 INFO 15188 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:15:56,844 INFO 15188 [egg-multipart] stream mode enable
+2021-06-10 19:15:57,140 INFO 15188 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:15:57,144 INFO 15188 [egg-security] use csrf middleware
+2021-06-10 19:15:57,145 INFO 15188 [egg-security] use methodnoallow middleware
+2021-06-10 19:15:57,146 INFO 15188 [egg-security] use noopen middleware
+2021-06-10 19:15:57,148 INFO 15188 [egg-security] use nosniff middleware
+2021-06-10 19:15:57,149 INFO 15188 [egg-security] use xssProtection middleware
+2021-06-10 19:15:57,150 INFO 15188 [egg-security] use xframe middleware
+2021-06-10 19:15:57,151 INFO 15188 [egg-security] use dta middleware
+2021-06-10 19:15:57,151 INFO 15188 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 19:15:57,164 INFO 15188 [egg:core] dump config after load, 7ms
+2021-06-10 19:15:57,181 INFO 15188 [egg-watcher:application] watcher start success
+2021-06-10 19:15:57,190 INFO 15188 [egg:core] dump config after ready, 7ms
+2021-06-10 19:15:58,724 INFO 9740 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:15:58,761 INFO 9740 [egg-multipart] stream mode enable
+2021-06-10 19:15:58,899 INFO 9740 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:15:58,902 INFO 9740 [egg-security] use csrf middleware
+2021-06-10 19:15:58,903 INFO 9740 [egg-security] use methodnoallow middleware
+2021-06-10 19:15:58,904 INFO 9740 [egg-security] use noopen middleware
+2021-06-10 19:15:58,905 INFO 9740 [egg-security] use nosniff middleware
+2021-06-10 19:15:58,906 INFO 9740 [egg-security] use xssProtection middleware
+2021-06-10 19:15:58,907 INFO 9740 [egg-security] use xframe middleware
+2021-06-10 19:15:58,908 INFO 9740 [egg-security] use dta middleware
+2021-06-10 19:15:58,908 INFO 9740 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 19:15:58,919 INFO 9740 [egg:core] dump config after load, 7ms
+2021-06-10 19:15:58,929 INFO 9740 [egg-watcher:application] watcher start success
+2021-06-10 19:15:58,938 INFO 9740 [egg:core] dump config after ready, 7ms
+2021-06-10 19:19:02,852 INFO 2380 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:19:02,923 INFO 2380 [egg-multipart] stream mode enable
+2021-06-10 19:19:03,171 INFO 2380 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:19:03,175 INFO 2380 [egg-security] use methodnoallow middleware
+2021-06-10 19:19:03,178 INFO 2380 [egg-security] use noopen middleware
+2021-06-10 19:19:03,182 INFO 2380 [egg-security] use nosniff middleware
+2021-06-10 19:19:03,184 INFO 2380 [egg-security] use xssProtection middleware
+2021-06-10 19:19:03,185 INFO 2380 [egg-security] use xframe middleware
+2021-06-10 19:19:03,186 INFO 2380 [egg-security] use dta middleware
+2021-06-10 19:19:03,186 INFO 2380 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:19:03,204 INFO 2380 [egg:core] dump config after load, 11ms
+2021-06-10 19:19:03,230 INFO 2380 [egg-watcher:application] watcher start success
+2021-06-10 19:19:03,242 INFO 2380 [egg:core] dump config after ready, 9ms
+2021-06-10 19:23:13,633 INFO 7388 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:23:13,664 INFO 7388 [egg-multipart] stream mode enable
+2021-06-10 19:23:13,806 INFO 7388 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:23:13,809 INFO 7388 [egg-security] use methodnoallow middleware
+2021-06-10 19:23:13,810 INFO 7388 [egg-security] use noopen middleware
+2021-06-10 19:23:13,811 INFO 7388 [egg-security] use nosniff middleware
+2021-06-10 19:23:13,812 INFO 7388 [egg-security] use xssProtection middleware
+2021-06-10 19:23:13,813 INFO 7388 [egg-security] use xframe middleware
+2021-06-10 19:23:13,814 INFO 7388 [egg-security] use dta middleware
+2021-06-10 19:23:13,814 INFO 7388 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:23:13,824 INFO 7388 [egg:core] dump config after load, 6ms
+2021-06-10 19:23:13,840 INFO 7388 [egg-watcher:application] watcher start success
+2021-06-10 19:23:13,852 INFO 7388 [egg:core] dump config after ready, 10ms
+2021-06-10 19:24:15,221 INFO 17956 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:24:15,254 INFO 17956 [egg-multipart] stream mode enable
+2021-06-10 19:24:15,404 INFO 17956 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:24:15,408 INFO 17956 [egg-security] use methodnoallow middleware
+2021-06-10 19:24:15,408 INFO 17956 [egg-security] use noopen middleware
+2021-06-10 19:24:15,410 INFO 17956 [egg-security] use nosniff middleware
+2021-06-10 19:24:15,410 INFO 17956 [egg-security] use xssProtection middleware
+2021-06-10 19:24:15,411 INFO 17956 [egg-security] use xframe middleware
+2021-06-10 19:24:15,412 INFO 17956 [egg-security] use dta middleware
+2021-06-10 19:24:15,412 INFO 17956 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:24:15,425 INFO 17956 [egg:core] dump config after load, 8ms
+2021-06-10 19:24:15,441 INFO 17956 [egg-watcher:application] watcher start success
+2021-06-10 19:24:15,451 INFO 17956 [egg:core] dump config after ready, 8ms
+2021-06-10 19:24:33,044 INFO 17820 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:24:33,101 INFO 17820 [egg-multipart] stream mode enable
+2021-06-10 19:24:33,295 INFO 17820 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:24:33,298 INFO 17820 [egg-security] use methodnoallow middleware
+2021-06-10 19:24:33,299 INFO 17820 [egg-security] use noopen middleware
+2021-06-10 19:24:33,301 INFO 17820 [egg-security] use nosniff middleware
+2021-06-10 19:24:33,302 INFO 17820 [egg-security] use xssProtection middleware
+2021-06-10 19:24:33,303 INFO 17820 [egg-security] use xframe middleware
+2021-06-10 19:24:33,305 INFO 17820 [egg-security] use dta middleware
+2021-06-10 19:24:33,305 INFO 17820 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:24:33,316 INFO 17820 [egg:core] dump config after load, 7ms
+2021-06-10 19:24:33,334 INFO 17820 [egg-watcher:application] watcher start success
+2021-06-10 19:24:33,344 INFO 17820 [egg:core] dump config after ready, 8ms
+2021-06-10 19:24:58,466 INFO 15392 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:24:58,522 INFO 15392 [egg-multipart] stream mode enable
+2021-06-10 19:24:58,751 INFO 15392 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:24:58,756 INFO 15392 [egg-security] use methodnoallow middleware
+2021-06-10 19:24:58,757 INFO 15392 [egg-security] use noopen middleware
+2021-06-10 19:24:58,759 INFO 15392 [egg-security] use nosniff middleware
+2021-06-10 19:24:58,760 INFO 15392 [egg-security] use xssProtection middleware
+2021-06-10 19:24:58,761 INFO 15392 [egg-security] use xframe middleware
+2021-06-10 19:24:58,762 INFO 15392 [egg-security] use dta middleware
+2021-06-10 19:24:58,762 INFO 15392 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:24:58,776 INFO 15392 [egg:core] dump config after load, 9ms
+2021-06-10 19:24:58,792 INFO 15392 [egg-watcher:application] watcher start success
+2021-06-10 19:24:58,804 INFO 15392 [egg:core] dump config after ready, 10ms
+2021-06-10 19:26:22,944 INFO 7164 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:26:22,998 INFO 7164 [egg-multipart] stream mode enable
+2021-06-10 19:26:23,198 INFO 7164 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:26:23,202 INFO 7164 [egg-security] use methodnoallow middleware
+2021-06-10 19:26:23,203 INFO 7164 [egg-security] use noopen middleware
+2021-06-10 19:26:23,204 INFO 7164 [egg-security] use nosniff middleware
+2021-06-10 19:26:23,205 INFO 7164 [egg-security] use xssProtection middleware
+2021-06-10 19:26:23,206 INFO 7164 [egg-security] use xframe middleware
+2021-06-10 19:26:23,206 INFO 7164 [egg-security] use dta middleware
+2021-06-10 19:26:23,206 INFO 7164 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:26:23,218 INFO 7164 [egg:core] dump config after load, 7ms
+2021-06-10 19:26:23,233 INFO 7164 [egg-watcher:application] watcher start success
+2021-06-10 19:26:23,246 INFO 7164 [egg:core] dump config after ready, 11ms
+2021-06-10 19:27:00,286 INFO 9488 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:27:00,428 INFO 9488 [egg-multipart] stream mode enable
+2021-06-10 19:27:00,744 INFO 9488 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:27:00,747 INFO 9488 [egg-security] use methodnoallow middleware
+2021-06-10 19:27:00,748 INFO 9488 [egg-security] use noopen middleware
+2021-06-10 19:27:00,750 INFO 9488 [egg-security] use nosniff middleware
+2021-06-10 19:27:00,752 INFO 9488 [egg-security] use xssProtection middleware
+2021-06-10 19:27:00,755 INFO 9488 [egg-security] use xframe middleware
+2021-06-10 19:27:00,758 INFO 9488 [egg-security] use dta middleware
+2021-06-10 19:27:00,758 INFO 9488 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:27:00,778 INFO 9488 [egg:core] dump config after load, 13ms
+2021-06-10 19:27:00,808 INFO 9488 [egg-watcher:application] watcher start success
+2021-06-10 19:27:00,827 INFO 9488 [egg:core] dump config after ready, 15ms
+2021-06-10 19:28:48,251 INFO 1412 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:28:48,346 INFO 1412 [egg-multipart] stream mode enable
+2021-06-10 19:28:48,602 INFO 1412 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:28:48,605 INFO 1412 [egg-security] use methodnoallow middleware
+2021-06-10 19:28:48,605 INFO 1412 [egg-security] use noopen middleware
+2021-06-10 19:28:48,607 INFO 1412 [egg-security] use nosniff middleware
+2021-06-10 19:28:48,607 INFO 1412 [egg-security] use xssProtection middleware
+2021-06-10 19:28:48,608 INFO 1412 [egg-security] use xframe middleware
+2021-06-10 19:28:48,609 INFO 1412 [egg-security] use dta middleware
+2021-06-10 19:28:48,609 INFO 1412 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:28:48,636 INFO 1412 [egg:core] dump config after load, 19ms
+2021-06-10 19:28:48,650 INFO 1412 [egg-watcher:application] watcher start success
+2021-06-10 19:28:48,661 INFO 1412 [egg:core] dump config after ready, 9ms
+2021-06-10 19:29:01,727 INFO 12628 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:29:01,759 INFO 12628 [egg-multipart] stream mode enable
+2021-06-10 19:29:01,898 INFO 12628 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:29:01,901 INFO 12628 [egg-security] use methodnoallow middleware
+2021-06-10 19:29:01,902 INFO 12628 [egg-security] use noopen middleware
+2021-06-10 19:29:01,903 INFO 12628 [egg-security] use nosniff middleware
+2021-06-10 19:29:01,904 INFO 12628 [egg-security] use xssProtection middleware
+2021-06-10 19:29:01,905 INFO 12628 [egg-security] use xframe middleware
+2021-06-10 19:29:01,905 INFO 12628 [egg-security] use dta middleware
+2021-06-10 19:29:01,905 INFO 12628 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:29:01,920 INFO 12628 [egg:core] dump config after load, 9ms
+2021-06-10 19:29:01,942 INFO 12628 [egg-watcher:application] watcher start success
+2021-06-10 19:29:01,955 INFO 12628 [egg:core] dump config after ready, 10ms
+2021-06-10 19:31:01,376 INFO 17880 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:31:01,413 INFO 17880 [egg-multipart] stream mode enable
+2021-06-10 19:31:01,608 INFO 17880 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:31:01,612 INFO 17880 [egg-security] use methodnoallow middleware
+2021-06-10 19:31:01,613 INFO 17880 [egg-security] use noopen middleware
+2021-06-10 19:31:01,615 INFO 17880 [egg-security] use nosniff middleware
+2021-06-10 19:31:01,616 INFO 17880 [egg-security] use xssProtection middleware
+2021-06-10 19:31:01,617 INFO 17880 [egg-security] use xframe middleware
+2021-06-10 19:31:01,618 INFO 17880 [egg-security] use dta middleware
+2021-06-10 19:31:01,618 INFO 17880 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:31:01,635 INFO 17880 [egg:core] dump config after load, 10ms
+2021-06-10 19:31:01,654 INFO 17880 [egg-watcher:application] watcher start success
+2021-06-10 19:31:01,664 INFO 17880 [egg:core] dump config after ready, 8ms
+2021-06-10 19:31:52,484 INFO 17244 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:31:52,545 INFO 17244 [egg-multipart] stream mode enable
+2021-06-10 19:31:52,765 INFO 17244 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:31:52,769 INFO 17244 [egg-security] use methodnoallow middleware
+2021-06-10 19:31:52,770 INFO 17244 [egg-security] use noopen middleware
+2021-06-10 19:31:52,771 INFO 17244 [egg-security] use nosniff middleware
+2021-06-10 19:31:52,772 INFO 17244 [egg-security] use xssProtection middleware
+2021-06-10 19:31:52,773 INFO 17244 [egg-security] use xframe middleware
+2021-06-10 19:31:52,774 INFO 17244 [egg-security] use dta middleware
+2021-06-10 19:31:52,774 INFO 17244 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:31:52,789 INFO 17244 [egg:core] dump config after load, 9ms
+2021-06-10 19:31:52,808 INFO 17244 [egg-watcher:application] watcher start success
+2021-06-10 19:31:52,819 INFO 17244 [egg:core] dump config after ready, 9ms
+2021-06-10 19:33:13,993 INFO 14268 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:33:14,027 INFO 14268 [egg-multipart] stream mode enable
+2021-06-10 19:33:14,176 INFO 14268 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:33:14,179 INFO 14268 [egg-security] use methodnoallow middleware
+2021-06-10 19:33:14,180 INFO 14268 [egg-security] use noopen middleware
+2021-06-10 19:33:14,181 INFO 14268 [egg-security] use nosniff middleware
+2021-06-10 19:33:14,182 INFO 14268 [egg-security] use xssProtection middleware
+2021-06-10 19:33:14,183 INFO 14268 [egg-security] use xframe middleware
+2021-06-10 19:33:14,184 INFO 14268 [egg-security] use dta middleware
+2021-06-10 19:33:14,184 INFO 14268 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:33:14,196 INFO 14268 [egg:core] dump config after load, 8ms
+2021-06-10 19:33:14,212 INFO 14268 [egg-watcher:application] watcher start success
+2021-06-10 19:33:14,223 INFO 14268 [egg:core] dump config after ready, 8ms
+2021-06-10 19:33:48,729 INFO 9072 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:33:48,769 INFO 9072 [egg-multipart] stream mode enable
+2021-06-10 19:33:48,960 INFO 9072 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:33:48,963 INFO 9072 [egg-security] use methodnoallow middleware
+2021-06-10 19:33:48,964 INFO 9072 [egg-security] use noopen middleware
+2021-06-10 19:33:48,965 INFO 9072 [egg-security] use nosniff middleware
+2021-06-10 19:33:48,966 INFO 9072 [egg-security] use xssProtection middleware
+2021-06-10 19:33:48,967 INFO 9072 [egg-security] use xframe middleware
+2021-06-10 19:33:48,968 INFO 9072 [egg-security] use dta middleware
+2021-06-10 19:33:48,968 INFO 9072 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:33:48,986 INFO 9072 [egg:core] dump config after load, 10ms
+2021-06-10 19:33:49,007 INFO 9072 [egg-watcher:application] watcher start success
+2021-06-10 19:33:49,019 INFO 9072 [egg:core] dump config after ready, 10ms
+2021-06-10 19:35:40,768 INFO 17324 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:35:40,818 INFO 17324 [egg-multipart] stream mode enable
+2021-06-10 19:35:41,114 INFO 17324 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:35:41,117 INFO 17324 [egg-security] use methodnoallow middleware
+2021-06-10 19:35:41,118 INFO 17324 [egg-security] use noopen middleware
+2021-06-10 19:35:41,119 INFO 17324 [egg-security] use nosniff middleware
+2021-06-10 19:35:41,120 INFO 17324 [egg-security] use xssProtection middleware
+2021-06-10 19:35:41,121 INFO 17324 [egg-security] use xframe middleware
+2021-06-10 19:35:41,122 INFO 17324 [egg-security] use dta middleware
+2021-06-10 19:35:41,122 INFO 17324 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:35:41,138 INFO 17324 [egg:core] dump config after load, 7ms
+2021-06-10 19:35:41,158 INFO 17324 [egg-watcher:application] watcher start success
+2021-06-10 19:35:41,171 INFO 17324 [egg:core] dump config after ready, 10ms
+2021-06-10 19:37:39,030 INFO 14348 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:37:39,073 INFO 14348 [egg-multipart] stream mode enable
+2021-06-10 19:37:39,341 INFO 14348 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:37:39,349 INFO 14348 [egg-security] use methodnoallow middleware
+2021-06-10 19:37:39,354 INFO 14348 [egg-security] use noopen middleware
+2021-06-10 19:37:39,356 INFO 14348 [egg-security] use nosniff middleware
+2021-06-10 19:37:39,357 INFO 14348 [egg-security] use xssProtection middleware
+2021-06-10 19:37:39,359 INFO 14348 [egg-security] use xframe middleware
+2021-06-10 19:37:39,361 INFO 14348 [egg-security] use dta middleware
+2021-06-10 19:37:39,361 INFO 14348 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:37:39,401 INFO 14348 [egg:core] dump config after load, 26ms
+2021-06-10 19:37:39,427 INFO 14348 [egg-watcher:application] watcher start success
+2021-06-10 19:37:39,442 INFO 14348 [egg:core] dump config after ready, 11ms
+2021-06-10 19:37:41,349 INFO 4992 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:37:41,383 INFO 4992 [egg-multipart] stream mode enable
+2021-06-10 19:37:41,543 INFO 4992 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:37:41,546 INFO 4992 [egg-security] use methodnoallow middleware
+2021-06-10 19:37:41,546 INFO 4992 [egg-security] use noopen middleware
+2021-06-10 19:37:41,548 INFO 4992 [egg-security] use nosniff middleware
+2021-06-10 19:37:41,548 INFO 4992 [egg-security] use xssProtection middleware
+2021-06-10 19:37:41,549 INFO 4992 [egg-security] use xframe middleware
+2021-06-10 19:37:41,550 INFO 4992 [egg-security] use dta middleware
+2021-06-10 19:37:41,550 INFO 4992 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:37:41,561 INFO 4992 [egg:core] dump config after load, 6ms
+2021-06-10 19:37:41,576 INFO 4992 [egg-watcher:application] watcher start success
+2021-06-10 19:37:41,587 INFO 4992 [egg:core] dump config after ready, 8ms
+2021-06-10 19:38:18,489 INFO 17080 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:38:18,521 INFO 17080 [egg-multipart] stream mode enable
+2021-06-10 19:38:18,664 INFO 17080 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:38:18,667 INFO 17080 [egg-security] use methodnoallow middleware
+2021-06-10 19:38:18,668 INFO 17080 [egg-security] use noopen middleware
+2021-06-10 19:38:18,669 INFO 17080 [egg-security] use nosniff middleware
+2021-06-10 19:38:18,670 INFO 17080 [egg-security] use xssProtection middleware
+2021-06-10 19:38:18,671 INFO 17080 [egg-security] use xframe middleware
+2021-06-10 19:38:18,671 INFO 17080 [egg-security] use dta middleware
+2021-06-10 19:38:18,671 INFO 17080 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:38:18,682 INFO 17080 [egg:core] dump config after load, 6ms
+2021-06-10 19:38:18,697 INFO 17080 [egg-watcher:application] watcher start success
+2021-06-10 19:38:18,709 INFO 17080 [egg:core] dump config after ready, 10ms
+2021-06-10 19:39:02,779 INFO 17384 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:39:02,833 INFO 17384 [egg-multipart] stream mode enable
+2021-06-10 19:39:03,032 INFO 17384 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:39:03,035 INFO 17384 [egg-security] use methodnoallow middleware
+2021-06-10 19:39:03,036 INFO 17384 [egg-security] use noopen middleware
+2021-06-10 19:39:03,038 INFO 17384 [egg-security] use nosniff middleware
+2021-06-10 19:39:03,038 INFO 17384 [egg-security] use xssProtection middleware
+2021-06-10 19:39:03,039 INFO 17384 [egg-security] use xframe middleware
+2021-06-10 19:39:03,040 INFO 17384 [egg-security] use dta middleware
+2021-06-10 19:39:03,040 INFO 17384 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 19:39:03,052 INFO 17384 [egg:core] dump config after load, 7ms
+2021-06-10 19:39:03,068 INFO 17384 [egg-watcher:application] watcher start success
+2021-06-10 19:39:03,079 INFO 17384 [egg:core] dump config after ready, 8ms
+2021-06-10 19:39:24,196 INFO 14268 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 19:39:24,233 INFO 14268 [egg-multipart] stream mode enable
+2021-06-10 19:39:24,469 INFO 14268 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 19:39:24,473 INFO 14268 [egg-security] use csrf middleware
+2021-06-10 19:39:24,474 INFO 14268 [egg-security] use methodnoallow middleware
+2021-06-10 19:39:24,475 INFO 14268 [egg-security] use noopen middleware
+2021-06-10 19:39:24,477 INFO 14268 [egg-security] use nosniff middleware
+2021-06-10 19:39:24,479 INFO 14268 [egg-security] use xssProtection middleware
+2021-06-10 19:39:24,480 INFO 14268 [egg-security] use xframe middleware
+2021-06-10 19:39:24,481 INFO 14268 [egg-security] use dta middleware
+2021-06-10 19:39:24,481 INFO 14268 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 19:39:24,494 INFO 14268 [egg:core] dump config after load, 7ms
+2021-06-10 19:39:24,511 INFO 14268 [egg-watcher:application] watcher start success
+2021-06-10 19:39:24,522 INFO 14268 [egg:core] dump config after ready, 9ms
+2021-06-10 20:15:09,069 INFO 19520 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:15:09,305 INFO 19520 [egg-multipart] stream mode enable
+2021-06-10 20:15:10,121 INFO 19520 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:15:10,128 INFO 19520 [egg-security] use csrf middleware
+2021-06-10 20:15:10,132 INFO 19520 [egg-security] use methodnoallow middleware
+2021-06-10 20:15:10,134 INFO 19520 [egg-security] use noopen middleware
+2021-06-10 20:15:10,136 INFO 19520 [egg-security] use nosniff middleware
+2021-06-10 20:15:10,137 INFO 19520 [egg-security] use xssProtection middleware
+2021-06-10 20:15:10,139 INFO 19520 [egg-security] use xframe middleware
+2021-06-10 20:15:10,141 INFO 19520 [egg-security] use dta middleware
+2021-06-10 20:15:10,141 INFO 19520 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:15:10,175 INFO 19520 [egg:core] dump config after load, 16ms
+2021-06-10 20:15:10,222 INFO 19520 [egg-watcher:application] watcher start success
+2021-06-10 20:15:10,246 INFO 19520 [egg:core] dump config after ready, 20ms
+2021-06-10 20:15:37,735 INFO 11136 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:15:37,867 INFO 11136 [egg-multipart] stream mode enable
+2021-06-10 20:15:38,555 INFO 11136 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:15:38,567 INFO 11136 [egg-security] use csrf middleware
+2021-06-10 20:15:38,572 INFO 11136 [egg-security] use methodnoallow middleware
+2021-06-10 20:15:38,575 INFO 11136 [egg-security] use noopen middleware
+2021-06-10 20:15:38,589 INFO 11136 [egg-security] use nosniff middleware
+2021-06-10 20:15:38,596 INFO 11136 [egg-security] use xssProtection middleware
+2021-06-10 20:15:38,601 INFO 11136 [egg-security] use xframe middleware
+2021-06-10 20:15:38,605 INFO 11136 [egg-security] use dta middleware
+2021-06-10 20:15:38,605 INFO 11136 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:15:38,679 INFO 11136 [egg:core] dump config after load, 55ms
+2021-06-10 20:15:38,728 INFO 11136 [egg-watcher:application] watcher start success
+2021-06-10 20:15:38,786 INFO 11136 [egg:core] dump config after ready, 42ms
+2021-06-10 20:15:46,614 INFO 21032 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:15:46,766 INFO 21032 [egg-multipart] stream mode enable
+2021-06-10 20:15:47,668 INFO 21032 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:15:47,678 INFO 21032 [egg-security] use csrf middleware
+2021-06-10 20:15:47,682 INFO 21032 [egg-security] use methodnoallow middleware
+2021-06-10 20:15:47,684 INFO 21032 [egg-security] use noopen middleware
+2021-06-10 20:15:47,692 INFO 21032 [egg-security] use nosniff middleware
+2021-06-10 20:15:47,702 INFO 21032 [egg-security] use xssProtection middleware
+2021-06-10 20:15:47,705 INFO 21032 [egg-security] use xframe middleware
+2021-06-10 20:15:47,709 INFO 21032 [egg-security] use dta middleware
+2021-06-10 20:15:47,709 INFO 21032 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:15:47,744 INFO 21032 [egg:core] dump config after load, 16ms
+2021-06-10 20:15:47,783 INFO 21032 [egg-watcher:application] watcher start success
+2021-06-10 20:15:47,830 INFO 21032 [egg:core] dump config after ready, 40ms
+2021-06-10 20:19:36,992 INFO 16156 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:19:37,238 INFO 16156 [egg-multipart] stream mode enable
+2021-06-10 20:19:38,210 INFO 16156 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:19:38,244 INFO 16156 [egg-security] use csrf middleware
+2021-06-10 20:19:38,251 INFO 16156 [egg-security] use methodnoallow middleware
+2021-06-10 20:19:38,258 INFO 16156 [egg-security] use noopen middleware
+2021-06-10 20:19:38,263 INFO 16156 [egg-security] use nosniff middleware
+2021-06-10 20:19:38,266 INFO 16156 [egg-security] use xssProtection middleware
+2021-06-10 20:19:38,268 INFO 16156 [egg-security] use xframe middleware
+2021-06-10 20:19:38,271 INFO 16156 [egg-security] use dta middleware
+2021-06-10 20:19:38,271 INFO 16156 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:19:38,323 INFO 16156 [egg:core] dump config after load, 25ms
+2021-06-10 20:19:38,370 INFO 16156 [egg-watcher:application] watcher start success
+2021-06-10 20:19:38,457 INFO 16156 [egg:core] dump config after ready, 56ms
+2021-06-10 20:19:44,458 INFO 17004 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:19:44,562 INFO 17004 [egg-multipart] stream mode enable
+2021-06-10 20:19:45,039 INFO 17004 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:19:45,054 INFO 17004 [egg-security] use csrf middleware
+2021-06-10 20:19:45,058 INFO 17004 [egg-security] use methodnoallow middleware
+2021-06-10 20:19:45,061 INFO 17004 [egg-security] use noopen middleware
+2021-06-10 20:19:45,069 INFO 17004 [egg-security] use nosniff middleware
+2021-06-10 20:19:45,072 INFO 17004 [egg-security] use xssProtection middleware
+2021-06-10 20:19:45,074 INFO 17004 [egg-security] use xframe middleware
+2021-06-10 20:19:45,076 INFO 17004 [egg-security] use dta middleware
+2021-06-10 20:19:45,076 INFO 17004 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:19:45,113 INFO 17004 [egg:core] dump config after load, 26ms
+2021-06-10 20:19:45,156 INFO 17004 [egg-watcher:application] watcher start success
+2021-06-10 20:19:45,180 INFO 17004 [egg:core] dump config after ready, 19ms
+2021-06-10 20:20:21,950 INFO 19672 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:20:22,060 INFO 19672 [egg-multipart] stream mode enable
+2021-06-10 20:20:22,526 INFO 19672 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:20:22,540 INFO 19672 [egg-security] use csrf middleware
+2021-06-10 20:20:22,545 INFO 19672 [egg-security] use methodnoallow middleware
+2021-06-10 20:20:22,549 INFO 19672 [egg-security] use noopen middleware
+2021-06-10 20:20:22,552 INFO 19672 [egg-security] use nosniff middleware
+2021-06-10 20:20:22,555 INFO 19672 [egg-security] use xssProtection middleware
+2021-06-10 20:20:22,557 INFO 19672 [egg-security] use xframe middleware
+2021-06-10 20:20:22,559 INFO 19672 [egg-security] use dta middleware
+2021-06-10 20:20:22,559 INFO 19672 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:20:22,601 INFO 19672 [egg:core] dump config after load, 31ms
+2021-06-10 20:20:22,635 INFO 19672 [egg-watcher:application] watcher start success
+2021-06-10 20:20:22,666 INFO 19672 [egg:core] dump config after ready, 27ms
+2021-06-10 20:21:51,442 INFO 19116 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:21:51,717 INFO 19116 [egg-multipart] stream mode enable
+2021-06-10 20:21:52,920 INFO 19116 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:21:52,996 INFO 19116 [egg-security] use csrf middleware
+2021-06-10 20:21:53,014 INFO 19116 [egg-security] use methodnoallow middleware
+2021-06-10 20:21:53,022 INFO 19116 [egg-security] use noopen middleware
+2021-06-10 20:21:53,040 INFO 19116 [egg-security] use nosniff middleware
+2021-06-10 20:21:53,046 INFO 19116 [egg-security] use xssProtection middleware
+2021-06-10 20:21:53,051 INFO 19116 [egg-security] use xframe middleware
+2021-06-10 20:21:53,054 INFO 19116 [egg-security] use dta middleware
+2021-06-10 20:21:53,055 INFO 19116 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:21:53,142 INFO 19116 [egg:core] dump config after load, 59ms
+2021-06-10 20:21:53,225 INFO 19116 [egg-watcher:application] watcher start success
+2021-06-10 20:21:53,334 INFO 19116 [egg:core] dump config after ready, 81ms
+2021-06-10 20:22:43,196 INFO 14584 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:22:43,331 INFO 14584 [egg-multipart] stream mode enable
+2021-06-10 20:22:43,899 INFO 14584 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:22:43,908 INFO 14584 [egg-security] use csrf middleware
+2021-06-10 20:22:43,914 INFO 14584 [egg-security] use methodnoallow middleware
+2021-06-10 20:22:43,916 INFO 14584 [egg-security] use noopen middleware
+2021-06-10 20:22:43,920 INFO 14584 [egg-security] use nosniff middleware
+2021-06-10 20:22:43,921 INFO 14584 [egg-security] use xssProtection middleware
+2021-06-10 20:22:43,923 INFO 14584 [egg-security] use xframe middleware
+2021-06-10 20:22:43,924 INFO 14584 [egg-security] use dta middleware
+2021-06-10 20:22:43,924 INFO 14584 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:22:43,989 INFO 14584 [egg:core] dump config after load, 27ms
+2021-06-10 20:22:44,029 INFO 14584 [egg-watcher:application] watcher start success
+2021-06-10 20:22:44,054 INFO 14584 [egg:core] dump config after ready, 18ms
+2021-06-10 20:23:13,833 INFO 19332 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:23:14,007 INFO 19332 [egg-multipart] stream mode enable
+2021-06-10 20:23:15,241 INFO 19332 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:23:15,259 INFO 19332 [egg-security] use csrf middleware
+2021-06-10 20:23:15,265 INFO 19332 [egg-security] use methodnoallow middleware
+2021-06-10 20:23:15,270 INFO 19332 [egg-security] use noopen middleware
+2021-06-10 20:23:15,281 INFO 19332 [egg-security] use nosniff middleware
+2021-06-10 20:23:15,291 INFO 19332 [egg-security] use xssProtection middleware
+2021-06-10 20:23:15,295 INFO 19332 [egg-security] use xframe middleware
+2021-06-10 20:23:15,298 INFO 19332 [egg-security] use dta middleware
+2021-06-10 20:23:15,299 INFO 19332 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:23:15,366 INFO 19332 [egg:core] dump config after load, 48ms
+2021-06-10 20:23:15,413 INFO 19332 [egg-watcher:application] watcher start success
+2021-06-10 20:23:15,454 INFO 19332 [egg:core] dump config after ready, 30ms
+2021-06-10 20:23:23,885 INFO 2712 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:23:23,978 INFO 2712 [egg-multipart] stream mode enable
+2021-06-10 20:23:24,363 INFO 2712 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:23:24,373 INFO 2712 [egg-security] use csrf middleware
+2021-06-10 20:23:24,386 INFO 2712 [egg-security] use methodnoallow middleware
+2021-06-10 20:23:24,390 INFO 2712 [egg-security] use noopen middleware
+2021-06-10 20:23:24,394 INFO 2712 [egg-security] use nosniff middleware
+2021-06-10 20:23:24,396 INFO 2712 [egg-security] use xssProtection middleware
+2021-06-10 20:23:24,398 INFO 2712 [egg-security] use xframe middleware
+2021-06-10 20:23:24,400 INFO 2712 [egg-security] use dta middleware
+2021-06-10 20:23:24,400 INFO 2712 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:23:24,432 INFO 2712 [egg:core] dump config after load, 15ms
+2021-06-10 20:23:24,455 INFO 2712 [egg-watcher:application] watcher start success
+2021-06-10 20:23:24,487 INFO 2712 [egg:core] dump config after ready, 27ms
+2021-06-10 20:24:12,379 INFO 18824 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:24:12,516 INFO 18824 [egg-multipart] stream mode enable
+2021-06-10 20:24:13,715 INFO 18824 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:24:13,736 INFO 18824 [egg-security] use csrf middleware
+2021-06-10 20:24:13,744 INFO 18824 [egg-security] use methodnoallow middleware
+2021-06-10 20:24:13,747 INFO 18824 [egg-security] use noopen middleware
+2021-06-10 20:24:13,752 INFO 18824 [egg-security] use nosniff middleware
+2021-06-10 20:24:13,755 INFO 18824 [egg-security] use xssProtection middleware
+2021-06-10 20:24:13,758 INFO 18824 [egg-security] use xframe middleware
+2021-06-10 20:24:13,760 INFO 18824 [egg-security] use dta middleware
+2021-06-10 20:24:13,760 INFO 18824 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:24:13,822 INFO 18824 [egg:core] dump config after load, 47ms
+2021-06-10 20:24:13,887 INFO 18824 [egg-watcher:application] watcher start success
+2021-06-10 20:24:13,945 INFO 18824 [egg:core] dump config after ready, 50ms
+2021-06-10 20:24:19,011 INFO 20900 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:24:19,129 INFO 20900 [egg-multipart] stream mode enable
+2021-06-10 20:24:19,668 INFO 20900 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:24:19,677 INFO 20900 [egg-security] use csrf middleware
+2021-06-10 20:24:19,686 INFO 20900 [egg-security] use methodnoallow middleware
+2021-06-10 20:24:19,692 INFO 20900 [egg-security] use noopen middleware
+2021-06-10 20:24:19,696 INFO 20900 [egg-security] use nosniff middleware
+2021-06-10 20:24:19,699 INFO 20900 [egg-security] use xssProtection middleware
+2021-06-10 20:24:19,701 INFO 20900 [egg-security] use xframe middleware
+2021-06-10 20:24:19,703 INFO 20900 [egg-security] use dta middleware
+2021-06-10 20:24:19,703 INFO 20900 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:24:19,723 INFO 20900 [egg:core] dump config after load, 10ms
+2021-06-10 20:24:19,824 INFO 20900 [egg-watcher:application] watcher start success
+2021-06-10 20:24:19,872 INFO 20900 [egg:core] dump config after ready, 44ms
+2021-06-10 20:24:40,724 INFO 3928 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:24:40,843 INFO 3928 [egg-multipart] stream mode enable
+2021-06-10 20:24:41,377 INFO 3928 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:24:41,387 INFO 3928 [egg-security] use csrf middleware
+2021-06-10 20:24:41,390 INFO 3928 [egg-security] use methodnoallow middleware
+2021-06-10 20:24:41,391 INFO 3928 [egg-security] use noopen middleware
+2021-06-10 20:24:41,393 INFO 3928 [egg-security] use nosniff middleware
+2021-06-10 20:24:41,394 INFO 3928 [egg-security] use xssProtection middleware
+2021-06-10 20:24:41,395 INFO 3928 [egg-security] use xframe middleware
+2021-06-10 20:24:41,397 INFO 3928 [egg-security] use dta middleware
+2021-06-10 20:24:41,397 INFO 3928 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:24:41,415 INFO 3928 [egg:core] dump config after load, 11ms
+2021-06-10 20:24:41,447 INFO 3928 [egg-watcher:application] watcher start success
+2021-06-10 20:24:41,484 INFO 3928 [egg:core] dump config after ready, 34ms
+2021-06-10 20:24:47,813 INFO 4412 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:24:47,920 INFO 4412 [egg-multipart] stream mode enable
+2021-06-10 20:24:48,912 INFO 4412 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:24:48,923 INFO 4412 [egg-security] use csrf middleware
+2021-06-10 20:24:48,928 INFO 4412 [egg-security] use methodnoallow middleware
+2021-06-10 20:24:48,930 INFO 4412 [egg-security] use noopen middleware
+2021-06-10 20:24:48,933 INFO 4412 [egg-security] use nosniff middleware
+2021-06-10 20:24:48,935 INFO 4412 [egg-security] use xssProtection middleware
+2021-06-10 20:24:48,940 INFO 4412 [egg-security] use xframe middleware
+2021-06-10 20:24:48,943 INFO 4412 [egg-security] use dta middleware
+2021-06-10 20:24:48,944 INFO 4412 [egg-security] compose 7 middlewares into one security middleware
+2021-06-10 20:24:48,995 INFO 4412 [egg:core] dump config after load, 25ms
+2021-06-10 20:24:49,064 INFO 4412 [egg-watcher:application] watcher start success
+2021-06-10 20:24:49,133 INFO 4412 [egg:core] dump config after ready, 60ms
+2021-06-10 20:27:02,468 INFO 5536 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:27:02,567 INFO 5536 [egg-multipart] stream mode enable
+2021-06-10 20:27:03,038 INFO 5536 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:27:03,043 INFO 5536 [egg-security] use methodnoallow middleware
+2021-06-10 20:27:03,044 INFO 5536 [egg-security] use noopen middleware
+2021-06-10 20:27:03,046 INFO 5536 [egg-security] use nosniff middleware
+2021-06-10 20:27:03,048 INFO 5536 [egg-security] use xssProtection middleware
+2021-06-10 20:27:03,050 INFO 5536 [egg-security] use xframe middleware
+2021-06-10 20:27:03,051 INFO 5536 [egg-security] use dta middleware
+2021-06-10 20:27:03,051 INFO 5536 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:27:03,098 INFO 5536 [egg:core] dump config after load, 21ms
+2021-06-10 20:27:03,137 INFO 5536 [egg-watcher:application] watcher start success
+2021-06-10 20:27:03,156 INFO 5536 [egg:core] dump config after ready, 13ms
+2021-06-10 20:27:09,434 INFO 6652 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:27:09,653 INFO 6652 [egg-multipart] stream mode enable
+2021-06-10 20:27:10,304 INFO 6652 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:27:10,319 INFO 6652 [egg-security] use methodnoallow middleware
+2021-06-10 20:27:10,322 INFO 6652 [egg-security] use noopen middleware
+2021-06-10 20:27:10,326 INFO 6652 [egg-security] use nosniff middleware
+2021-06-10 20:27:10,329 INFO 6652 [egg-security] use xssProtection middleware
+2021-06-10 20:27:10,332 INFO 6652 [egg-security] use xframe middleware
+2021-06-10 20:27:10,336 INFO 6652 [egg-security] use dta middleware
+2021-06-10 20:27:10,336 INFO 6652 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:27:10,404 INFO 6652 [egg:core] dump config after load, 25ms
+2021-06-10 20:27:10,450 INFO 6652 [egg-watcher:application] watcher start success
+2021-06-10 20:27:10,495 INFO 6652 [egg:core] dump config after ready, 30ms
+2021-06-10 20:27:16,821 INFO 21376 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:27:16,945 INFO 21376 [egg-multipart] stream mode enable
+2021-06-10 20:27:17,432 INFO 21376 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:27:17,440 INFO 21376 [egg-security] use methodnoallow middleware
+2021-06-10 20:27:17,443 INFO 21376 [egg-security] use noopen middleware
+2021-06-10 20:27:17,448 INFO 21376 [egg-security] use nosniff middleware
+2021-06-10 20:27:17,450 INFO 21376 [egg-security] use xssProtection middleware
+2021-06-10 20:27:17,452 INFO 21376 [egg-security] use xframe middleware
+2021-06-10 20:27:17,454 INFO 21376 [egg-security] use dta middleware
+2021-06-10 20:27:17,454 INFO 21376 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:27:17,496 INFO 21376 [egg:core] dump config after load, 21ms
+2021-06-10 20:27:17,559 INFO 21376 [egg-watcher:application] watcher start success
+2021-06-10 20:27:17,595 INFO 21376 [egg:core] dump config after ready, 30ms
+2021-06-10 20:27:46,432 INFO 19464 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:27:46,532 INFO 19464 [egg-multipart] stream mode enable
+2021-06-10 20:27:46,984 INFO 19464 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:27:46,990 INFO 19464 [egg-security] use methodnoallow middleware
+2021-06-10 20:27:46,991 INFO 19464 [egg-security] use noopen middleware
+2021-06-10 20:27:46,994 INFO 19464 [egg-security] use nosniff middleware
+2021-06-10 20:27:47,003 INFO 19464 [egg-security] use xssProtection middleware
+2021-06-10 20:27:47,013 INFO 19464 [egg-security] use xframe middleware
+2021-06-10 20:27:47,015 INFO 19464 [egg-security] use dta middleware
+2021-06-10 20:27:47,015 INFO 19464 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:27:47,049 INFO 19464 [egg:core] dump config after load, 18ms
+2021-06-10 20:27:47,085 INFO 19464 [egg-watcher:application] watcher start success
+2021-06-10 20:27:47,137 INFO 19464 [egg:core] dump config after ready, 43ms
+2021-06-10 20:27:51,802 INFO 19348 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:27:51,953 INFO 19348 [egg-multipart] stream mode enable
+2021-06-10 20:27:52,981 INFO 19348 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:27:52,994 INFO 19348 [egg-security] use methodnoallow middleware
+2021-06-10 20:27:52,998 INFO 19348 [egg-security] use noopen middleware
+2021-06-10 20:27:53,001 INFO 19348 [egg-security] use nosniff middleware
+2021-06-10 20:27:53,003 INFO 19348 [egg-security] use xssProtection middleware
+2021-06-10 20:27:53,005 INFO 19348 [egg-security] use xframe middleware
+2021-06-10 20:27:53,007 INFO 19348 [egg-security] use dta middleware
+2021-06-10 20:27:53,007 INFO 19348 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:27:53,062 INFO 19348 [egg:core] dump config after load, 25ms
+2021-06-10 20:27:53,136 INFO 19348 [egg-watcher:application] watcher start success
+2021-06-10 20:27:53,198 INFO 19348 [egg:core] dump config after ready, 48ms
+2021-06-10 20:28:56,412 INFO 16628 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:28:56,544 INFO 16628 [egg-multipart] stream mode enable
+2021-06-10 20:28:57,335 INFO 16628 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:28:57,363 INFO 16628 [egg-security] use methodnoallow middleware
+2021-06-10 20:28:57,368 INFO 16628 [egg-security] use noopen middleware
+2021-06-10 20:28:57,378 INFO 16628 [egg-security] use nosniff middleware
+2021-06-10 20:28:57,385 INFO 16628 [egg-security] use xssProtection middleware
+2021-06-10 20:28:57,390 INFO 16628 [egg-security] use xframe middleware
+2021-06-10 20:28:57,394 INFO 16628 [egg-security] use dta middleware
+2021-06-10 20:28:57,394 INFO 16628 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:28:57,455 INFO 16628 [egg:core] dump config after load, 43ms
+2021-06-10 20:28:57,520 INFO 16628 [egg-watcher:application] watcher start success
+2021-06-10 20:28:57,567 INFO 16628 [egg:core] dump config after ready, 43ms
+2021-06-10 20:29:07,476 INFO 12752 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:29:07,638 INFO 12752 [egg-multipart] stream mode enable
+2021-06-10 20:29:08,582 INFO 12752 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:29:08,605 INFO 12752 [egg-security] use methodnoallow middleware
+2021-06-10 20:29:08,613 INFO 12752 [egg-security] use noopen middleware
+2021-06-10 20:29:08,618 INFO 12752 [egg-security] use nosniff middleware
+2021-06-10 20:29:08,621 INFO 12752 [egg-security] use xssProtection middleware
+2021-06-10 20:29:08,624 INFO 12752 [egg-security] use xframe middleware
+2021-06-10 20:29:08,631 INFO 12752 [egg-security] use dta middleware
+2021-06-10 20:29:08,631 INFO 12752 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:29:08,712 INFO 12752 [egg:core] dump config after load, 49ms
+2021-06-10 20:29:09,477 INFO 12752 [egg-watcher:application] watcher start success
+2021-06-10 20:29:09,531 INFO 12752 [egg:core] dump config after ready, 48ms
+2021-06-10 20:29:15,672 INFO 14388 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:29:15,775 INFO 14388 [egg-multipart] stream mode enable
+2021-06-10 20:29:16,226 INFO 14388 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:29:16,234 INFO 14388 [egg-security] use methodnoallow middleware
+2021-06-10 20:29:16,237 INFO 14388 [egg-security] use noopen middleware
+2021-06-10 20:29:16,240 INFO 14388 [egg-security] use nosniff middleware
+2021-06-10 20:29:16,246 INFO 14388 [egg-security] use xssProtection middleware
+2021-06-10 20:29:16,249 INFO 14388 [egg-security] use xframe middleware
+2021-06-10 20:29:16,251 INFO 14388 [egg-security] use dta middleware
+2021-06-10 20:29:16,251 INFO 14388 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:29:16,282 INFO 14388 [egg:core] dump config after load, 21ms
+2021-06-10 20:29:16,327 INFO 14388 [egg-watcher:application] watcher start success
+2021-06-10 20:29:16,390 INFO 14388 [egg:core] dump config after ready, 59ms
+2021-06-10 20:30:56,206 INFO 20312 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:30:56,312 INFO 20312 [egg-multipart] stream mode enable
+2021-06-10 20:30:56,880 INFO 20312 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:30:56,896 INFO 20312 [egg-security] use methodnoallow middleware
+2021-06-10 20:30:56,904 INFO 20312 [egg-security] use noopen middleware
+2021-06-10 20:30:56,909 INFO 20312 [egg-security] use nosniff middleware
+2021-06-10 20:30:56,912 INFO 20312 [egg-security] use xssProtection middleware
+2021-06-10 20:30:56,915 INFO 20312 [egg-security] use xframe middleware
+2021-06-10 20:30:56,917 INFO 20312 [egg-security] use dta middleware
+2021-06-10 20:30:56,917 INFO 20312 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:30:56,972 INFO 20312 [egg:core] dump config after load, 24ms
+2021-06-10 20:30:57,001 INFO 20312 [egg-watcher:application] watcher start success
+2021-06-10 20:30:57,033 INFO 20312 [egg:core] dump config after ready, 28ms
+2021-06-10 20:31:30,166 INFO 19520 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:31:30,279 INFO 19520 [egg-multipart] stream mode enable
+2021-06-10 20:31:30,924 INFO 19520 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:31:30,930 INFO 19520 [egg-security] use methodnoallow middleware
+2021-06-10 20:31:30,932 INFO 19520 [egg-security] use noopen middleware
+2021-06-10 20:31:30,935 INFO 19520 [egg-security] use nosniff middleware
+2021-06-10 20:31:30,941 INFO 19520 [egg-security] use xssProtection middleware
+2021-06-10 20:31:30,948 INFO 19520 [egg-security] use xframe middleware
+2021-06-10 20:31:30,952 INFO 19520 [egg-security] use dta middleware
+2021-06-10 20:31:30,953 INFO 19520 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:31:31,016 INFO 19520 [egg:core] dump config after load, 43ms
+2021-06-10 20:31:31,054 INFO 19520 [egg-watcher:application] watcher start success
+2021-06-10 20:31:31,097 INFO 19520 [egg:core] dump config after ready, 37ms
+2021-06-10 20:36:21,301 INFO 3076 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:36:21,411 INFO 3076 [egg-multipart] stream mode enable
+2021-06-10 20:36:21,854 INFO 3076 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:36:21,874 INFO 3076 [egg-security] use methodnoallow middleware
+2021-06-10 20:36:21,877 INFO 3076 [egg-security] use noopen middleware
+2021-06-10 20:36:21,881 INFO 3076 [egg-security] use nosniff middleware
+2021-06-10 20:36:21,883 INFO 3076 [egg-security] use xssProtection middleware
+2021-06-10 20:36:21,884 INFO 3076 [egg-security] use xframe middleware
+2021-06-10 20:36:21,886 INFO 3076 [egg-security] use dta middleware
+2021-06-10 20:36:21,886 INFO 3076 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:36:21,911 INFO 3076 [egg:core] dump config after load, 13ms
+2021-06-10 20:36:21,949 INFO 3076 [egg-watcher:application] watcher start success
+2021-06-10 20:36:21,973 INFO 3076 [egg:core] dump config after ready, 19ms
+2021-06-10 20:36:36,950 INFO 9640 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:36:37,036 INFO 9640 [egg-multipart] stream mode enable
+2021-06-10 20:36:37,491 INFO 9640 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:36:37,500 INFO 9640 [egg-security] use methodnoallow middleware
+2021-06-10 20:36:37,502 INFO 9640 [egg-security] use noopen middleware
+2021-06-10 20:36:37,505 INFO 9640 [egg-security] use nosniff middleware
+2021-06-10 20:36:37,506 INFO 9640 [egg-security] use xssProtection middleware
+2021-06-10 20:36:37,508 INFO 9640 [egg-security] use xframe middleware
+2021-06-10 20:36:37,510 INFO 9640 [egg-security] use dta middleware
+2021-06-10 20:36:37,510 INFO 9640 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:36:37,554 INFO 9640 [egg:core] dump config after load, 19ms
+2021-06-10 20:36:37,577 INFO 9640 [egg-watcher:application] watcher start success
+2021-06-10 20:36:37,602 INFO 9640 [egg:core] dump config after ready, 22ms
+2021-06-10 20:40:36,116 INFO 13800 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:40:36,372 INFO 13800 [egg-multipart] stream mode enable
+2021-06-10 20:40:37,598 INFO 13800 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:40:37,611 INFO 13800 [egg-security] use methodnoallow middleware
+2021-06-10 20:40:37,618 INFO 13800 [egg-security] use noopen middleware
+2021-06-10 20:40:37,624 INFO 13800 [egg-security] use nosniff middleware
+2021-06-10 20:40:37,635 INFO 13800 [egg-security] use xssProtection middleware
+2021-06-10 20:40:37,638 INFO 13800 [egg-security] use xframe middleware
+2021-06-10 20:40:37,641 INFO 13800 [egg-security] use dta middleware
+2021-06-10 20:40:37,641 INFO 13800 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:40:37,712 INFO 13800 [egg:core] dump config after load, 30ms
+2021-06-10 20:40:37,773 INFO 13800 [egg-watcher:application] watcher start success
+2021-06-10 20:40:37,827 INFO 13800 [egg:core] dump config after ready, 48ms
+2021-06-10 20:45:49,843 INFO 19356 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:45:49,945 INFO 19356 [egg-multipart] stream mode enable
+2021-06-10 20:45:50,474 INFO 19356 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:45:50,483 INFO 19356 [egg-security] use methodnoallow middleware
+2021-06-10 20:45:50,486 INFO 19356 [egg-security] use noopen middleware
+2021-06-10 20:45:50,490 INFO 19356 [egg-security] use nosniff middleware
+2021-06-10 20:45:50,497 INFO 19356 [egg-security] use xssProtection middleware
+2021-06-10 20:45:50,500 INFO 19356 [egg-security] use xframe middleware
+2021-06-10 20:45:50,502 INFO 19356 [egg-security] use dta middleware
+2021-06-10 20:45:50,502 INFO 19356 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:45:50,523 INFO 19356 [egg:core] dump config after load, 11ms
+2021-06-10 20:45:50,568 INFO 19356 [egg-watcher:application] watcher start success
+2021-06-10 20:45:50,591 INFO 19356 [egg:core] dump config after ready, 16ms
+2021-06-10 20:53:45,160 INFO 20640 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:53:45,324 INFO 20640 [egg-multipart] stream mode enable
+2021-06-10 20:53:46,111 INFO 20640 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:53:46,125 INFO 20640 [egg-security] use methodnoallow middleware
+2021-06-10 20:53:46,138 INFO 20640 [egg-security] use noopen middleware
+2021-06-10 20:53:46,152 INFO 20640 [egg-security] use nosniff middleware
+2021-06-10 20:53:46,160 INFO 20640 [egg-security] use xssProtection middleware
+2021-06-10 20:53:46,164 INFO 20640 [egg-security] use xframe middleware
+2021-06-10 20:53:46,169 INFO 20640 [egg-security] use dta middleware
+2021-06-10 20:53:46,169 INFO 20640 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:53:46,213 INFO 20640 [egg:core] dump config after load, 20ms
+2021-06-10 20:53:46,262 INFO 20640 [egg-watcher:application] watcher start success
+2021-06-10 20:53:46,327 INFO 20640 [egg:core] dump config after ready, 60ms
+2021-06-10 20:53:59,998 INFO 1128 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:54:00,179 INFO 1128 [egg-multipart] stream mode enable
+2021-06-10 20:54:00,877 INFO 1128 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:54:00,884 INFO 1128 [egg-security] use methodnoallow middleware
+2021-06-10 20:54:00,888 INFO 1128 [egg-security] use noopen middleware
+2021-06-10 20:54:00,911 INFO 1128 [egg-security] use nosniff middleware
+2021-06-10 20:54:00,919 INFO 1128 [egg-security] use xssProtection middleware
+2021-06-10 20:54:00,924 INFO 1128 [egg-security] use xframe middleware
+2021-06-10 20:54:00,927 INFO 1128 [egg-security] use dta middleware
+2021-06-10 20:54:00,928 INFO 1128 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:54:00,973 INFO 1128 [egg:core] dump config after load, 24ms
+2021-06-10 20:54:01,111 INFO 1128 [egg-watcher:application] watcher start success
+2021-06-10 20:54:01,145 INFO 1128 [egg:core] dump config after ready, 29ms
+2021-06-10 20:54:12,025 INFO 19708 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:54:12,127 INFO 19708 [egg-multipart] stream mode enable
+2021-06-10 20:54:12,590 INFO 19708 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:54:12,595 INFO 19708 [egg-security] use methodnoallow middleware
+2021-06-10 20:54:12,600 INFO 19708 [egg-security] use noopen middleware
+2021-06-10 20:54:12,607 INFO 19708 [egg-security] use nosniff middleware
+2021-06-10 20:54:12,609 INFO 19708 [egg-security] use xssProtection middleware
+2021-06-10 20:54:12,611 INFO 19708 [egg-security] use xframe middleware
+2021-06-10 20:54:12,612 INFO 19708 [egg-security] use dta middleware
+2021-06-10 20:54:12,612 INFO 19708 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:54:12,632 INFO 19708 [egg:core] dump config after load, 12ms
+2021-06-10 20:54:12,690 INFO 19708 [egg-watcher:application] watcher start success
+2021-06-10 20:54:12,707 INFO 19708 [egg:core] dump config after ready, 13ms
+2021-06-10 20:55:23,265 INFO 19740 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:55:23,420 INFO 19740 [egg-multipart] stream mode enable
+2021-06-10 20:55:23,939 INFO 19740 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:55:23,943 INFO 19740 [egg-security] use methodnoallow middleware
+2021-06-10 20:55:23,945 INFO 19740 [egg-security] use noopen middleware
+2021-06-10 20:55:23,948 INFO 19740 [egg-security] use nosniff middleware
+2021-06-10 20:55:23,950 INFO 19740 [egg-security] use xssProtection middleware
+2021-06-10 20:55:23,952 INFO 19740 [egg-security] use xframe middleware
+2021-06-10 20:55:23,961 INFO 19740 [egg-security] use dta middleware
+2021-06-10 20:55:23,961 INFO 19740 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:55:24,000 INFO 19740 [egg:core] dump config after load, 21ms
+2021-06-10 20:55:24,038 INFO 19740 [egg-watcher:application] watcher start success
+2021-06-10 20:55:24,080 INFO 19740 [egg:core] dump config after ready, 37ms
+2021-06-10 20:55:28,944 INFO 14608 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:55:29,117 INFO 14608 [egg-multipart] stream mode enable
+2021-06-10 20:55:30,066 INFO 14608 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:55:30,084 INFO 14608 [egg-security] use methodnoallow middleware
+2021-06-10 20:55:30,087 INFO 14608 [egg-security] use noopen middleware
+2021-06-10 20:55:30,091 INFO 14608 [egg-security] use nosniff middleware
+2021-06-10 20:55:30,093 INFO 14608 [egg-security] use xssProtection middleware
+2021-06-10 20:55:30,096 INFO 14608 [egg-security] use xframe middleware
+2021-06-10 20:55:30,099 INFO 14608 [egg-security] use dta middleware
+2021-06-10 20:55:30,099 INFO 14608 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:55:30,148 INFO 14608 [egg:core] dump config after load, 32ms
+2021-06-10 20:55:30,206 INFO 14608 [egg-watcher:application] watcher start success
+2021-06-10 20:55:30,233 INFO 14608 [egg:core] dump config after ready, 21ms
+2021-06-10 20:59:37,901 INFO 15128 [egg:logger] init all loggers with options: {"dir":"C:\\珠峰培训\\21框架2期\\iframe-2021-02\\learn_node\\day3\\lear-egg\\logs\\lear-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"lear-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-06-10 20:59:38,033 INFO 15128 [egg-multipart] stream mode enable
+2021-06-10 20:59:38,404 INFO 15128 [egg-static] starting static serve /public/ -> C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\app\public
+2021-06-10 20:59:38,408 INFO 15128 [egg-security] use methodnoallow middleware
+2021-06-10 20:59:38,410 INFO 15128 [egg-security] use noopen middleware
+2021-06-10 20:59:38,420 INFO 15128 [egg-security] use nosniff middleware
+2021-06-10 20:59:38,430 INFO 15128 [egg-security] use xssProtection middleware
+2021-06-10 20:59:38,431 INFO 15128 [egg-security] use xframe middleware
+2021-06-10 20:59:38,434 INFO 15128 [egg-security] use dta middleware
+2021-06-10 20:59:38,434 INFO 15128 [egg-security] compose 6 middlewares into one security middleware
+2021-06-10 20:59:38,462 INFO 15128 [egg:core] dump config after load, 12ms
+2021-06-10 20:59:38,493 INFO 15128 [egg-watcher:application] watcher start success
+2021-06-10 20:59:38,518 INFO 15128 [egg:core] dump config after ready, 21ms

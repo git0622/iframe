@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>记账本接口文档</title>
+  <meta charset='utf-8'>
+  <link href='https://cdn.maxiang.io/res-min/themes/marxico.css' rel='stylesheet'>
+  <style></style>
+</head>
+
+<body>
+  <div id='preview-contents' class='note-content'>
+
+
+
+
+
+    <h3 id="记账本接口文档">记账本接口文档</h3>
+
+    <ul>
+      <li>
+        <blockquote>
+          <p><strong><code>注册接口</code></strong> <br>
+            地址： /api/user/register <br>
+            方式：post <br>
+            参数： {username:xxx,password:xxx}</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>登录接口</code></strong> <br>
+            地址： /api/user/login <br>
+            方式：post <br>
+            参数： {username:xxx,password:xxx} <br>
+            说明：登录成功返回token,每次请求需要前端将这个token放置在请求头的<code>Authorization</code>字段中</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>账单所有类型接口</code></strong> <br>
+            地址： /api/type/list <br>
+            方式：get <br>
+            参数： 无 <br>
+            说明：无</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>账单列表接口</code></strong> <br>
+            地址： /api/bill/list <br>
+            方式：get <br>
+            参数： <code>{date:展示列表的月份(2021-07),type_id:账单类型id(all),page:页码,page_size:页面容量}</code> <br>
+            说明：无</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>新增账单接口</code></strong> <br>
+            地址： /api/bill/add <br>
+            方式：post <br>
+            参数：
+            <code>{date:当前时间戳,type_id:账单类型id(all),amount:钱数(888.00),pay_type:1或者2(1为支出，2为收入),type_name:"账单类型名称"，remark：备注}</code>
+            <br>
+            说明：无</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>账单详情</code></strong> <br>
+            地址： /api/bill/detail <br>
+            方式：get <br>
+            参数： <code>{id:数据id}</code> <br>
+            说明：无</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>更新账单</code></strong> <br>
+            地址： /api/bill/update <br>
+            方式：post <br>
+            参数：
+            <code>{date:当前时间戳,type_id:账单类型id(all),amount:钱数(888.00),pay_type:1或者2(1为支出，2为收入),type_name:"账单类型名称"，remark：备注,id:数据id}</code>
+            <br>
+            说明：比新增接口多了一个id而已</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>删除账单</code></strong> <br>
+            地址： /api/bill/delete <br>
+            方式：post <br>
+            参数： <code>{id:数据id}</code> <br>
+            说明：无</p>
+        </blockquote>
+      </li>
+      <li>
+        <blockquote>
+          <p><strong><code>统计接口</code></strong> <br>
+            地址：/api/bill/data <br>
+            方式： get <br>
+            参数：<code>{date:2021-07}</code></p>
+        </blockquote>
+      </li>
+    </ul>
+  </div>
+</body>
+
+</html>

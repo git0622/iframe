@@ -1,0 +1,31 @@
+2021-06-08 22:05:26,355 ERROR 10136 [-/127.0.0.1/-/30ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg\lib\application.js:266:15)
+    at Object.get cookies [as cookies] (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg\app\extend\context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg-security\app\extend\context.js:91:35)
+    at Object.ensureCsrfSecret (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg-security\app\extend\context.js:104:13)
+    at csrf (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg-security\lib\middlewares\csrf.js:15:11)
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+    at C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+    at session (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+
+pid: 10136
+hostname: LAPTOP-R75SC3BB
+
+2021-06-10 19:16:43,100 WARN 9740 [-/127.0.0.1/-/8ms POST /list?q=123&ee=2345] missing csrf token. See https://eggjs.org/zh-cn/core/security.html#安全威胁csrf的防范
+2021-06-10 19:16:43,102 WARN 9740 [-/127.0.0.1/-/11ms POST /list?q=123&ee=2345] nodejs.ForbiddenError: missing csrf token
+    at Object.throw (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa\lib\context.js:97:11)
+    at Object.assertCsrf (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg-security\app\extend\context.js:162:32)
+    at csrf (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\egg-security\lib\middlewares\csrf.js:33:9)
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+    at C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:34:12
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+    at session (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-session\index.js:41:13)
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+    at overrideMethod (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-override\index.js:38:12)
+    at dispatch (C:\珠峰培训\21框架2期\iframe-2021-02\learn_node\day3\lear-egg\node_modules\koa-compose\index.js:42:32)
+message: "missing csrf token"
+pid: 9740
+hostname: LAPTOP-R75SC3BB
+

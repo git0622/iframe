@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <button id='log_btn'>登录</button>
+  <button id='list_btn'>获取列表</button>
+</body>
+
+</html>
+<script>
+  let token = localStorage.getItem('qqqqtoken')
+  log_btn.onclick = () => {
+    fetch('http://127.0.0.1:4000/login', {
+      method: 'post',
+      headers: new Headers({
+        'Content-Type': 'application/json'
+      }),
+      body: JSON.stringify({
+        name: "zhufeng",
+        psw: "zhufeng"
+      })
+    }).then(res => res.json()).then(data => {
+      token = data.token;
+      localStorage.setItem('qqqqtoken', token)
+    })
+  }
+  list_btn.onclick = () => {
+    fetch('http://127.0.0.1:4000/list', {
+      method: 'post',
+      headers: new Headers({
+        'Content-Type': 'application/json',
+        // mytoken: token
+      }),
+      body: JSON.stringify({
+        token: token
+      })
+    })
+  }
+</script>

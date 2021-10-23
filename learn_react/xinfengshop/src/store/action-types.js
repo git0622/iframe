@@ -1,0 +1,4 @@
+export const COUNTADD = "COUNTADD"
+export const COUNTMINUS = 'COUNTMINUS'
+
+export const UPDATEUSERINFO = 'UPDATEUSERINFO'

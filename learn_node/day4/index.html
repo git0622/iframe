@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+
+<body>
+  <ul id='ul'>
+    <li></li>
+  </ul>
+  <input type="text" id="inp">
+</body>
+
+</html>
+<script>
+  let ws = new WebSocket('ws://localhost:8080')
+
+  let list = [];
+
+  function render() {
+    let str = '';
+    list.forEach(item => {
+      str += `<li>${item}</li>`
+    })
+    ul.innerHTML = str
+  }
+  // ws.onopen = function () {
+  //   console.log('链接建立')
+  // }
+  // ws.onmessage = function (e) {
+  //   console.log(e.data)
+  //   list.push(e.data)
+  //   render()
+  // }
+  ws.onclose
+
+  setInterval(() => {
+    fetch('http://localhost:9000/qqq').then(res => res.json()).then(data => {
+      console.log(data)
+      if (data.length > list.length) {
+        list = data;
+        render()
+      }
+    })
+  }, 1000);
+
+  inp.onkeydown = function (e) {
+    if (e.keyCode == 13) {
+      fetch('http://localhost:9000?' + e.target.value)
+    }
+  }
+</script>

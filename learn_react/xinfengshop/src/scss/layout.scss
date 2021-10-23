@@ -1,0 +1,13 @@
+.ant-layout{
+  height: 100%;
+  .ant-layout-content{
+    overflow-y: scroll;
+  }
+}
+.content_box{
+  min-height: 2000px;
+  margin: 10px;
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+}

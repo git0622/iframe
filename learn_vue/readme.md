@@ -1,0 +1,1 @@
+npm i @vue/cli  -g  全局安装vue脚手架

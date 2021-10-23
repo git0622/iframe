@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://unpkg.com/vue@next"></script>
+  <style>
+    [v-cloak] {
+      opacity: 0;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="app">
+    {{name}}
+    <button id='c_btn'>该数据</button>
+    <button id='btn'></button>
+  </div>
+</body>
+
+</html>
+<script>
+  var obj = {
+    q: 23,
+    b: 35
+  }
+  c_btn.onclick = function () {
+    obj.q = 1000000
+  }
+  btn.onclick = function () {
+    console.log(obj)
+  }
+</script>
+
+<script src=''>
+  let createApp = Vue.createApp;
+  // createApp({
+  //   data() {
+  //     return {
+  //       name: "珠峰"
+  //     }
+  //   }
+  // }).mount("#app")
+</script>
+
+<script src=''>
+  let obj = {
+    name: "珠峰",
+    age: 12,
+    children: {
+      name: 123,
+      age: 1243
+    }
+  }
+  setObj(obj)
+
+  function defineProperty(obj, k, val) {
+    if (typeof val == 'object') {
+      setObj(val)
+    }
+    Object.defineProperty(obj, k, {
+      get() {
+        // 会做一些使用者（使用这个属性的地方）收集
+        console.log(k + "属性被调用了")
+        return val
+      },
+      set(v) {
+        // v 对应的是外界赋予当前属性的新值
+        //  通知视图的更新
+        console.log(k + "属性被赋值了")
+        val = v
+      }
+    })
+  }
+
+  function setObj(obj) {
+    Object.keys(obj).forEach(k => {
+      defineProperty(obj, k, obj[k])
+    })
+  }
+  let obj2 = {
+    name: "珠峰",
+    age: 12,
+    children: {
+      name: 123,
+      age: 1243
+    }
+  }
+  let proxyObj2 = new Proxy(obj2, {
+    get(target, k) {
+      console.log(k + "属性被调用了")
+      return target[k]
+    },
+    set(target, k, val) {
+      console.log(k + "属性被赋值了")
+      return target[k] = val
+    }
+  })
+  console.log(obj2)
+</script>
